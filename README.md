@@ -1,4 +1,4 @@
-# SmartCity Assignment 4 — Report (Real Data)
+# SmartCity Assignment 4 — Report 
 
 ## 1. Data Summary
 
