@@ -20,7 +20,7 @@ Most graphs contain one or several strongly connected components (SCCs), reflect
 
 ---
 
-## 2. Results (Real Metrics)
+## 2. Results 
 
 ### SCC (Tarjan)
 
